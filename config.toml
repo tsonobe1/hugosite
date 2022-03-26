@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'tsonobe dev log'
+theme = "hyde"
+disqusShortname = "spf13"
+googleAnalytics = "Your tracking code"
+
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/tsonobe1"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/sonobe-takuto-628958212/"},
+      {Name = "Qiita", URL = "https://qiita.com/taku_hito"}
+  ]
+
+[params]
+description = "show my products, sns and blog"
+themeColor = "theme-base-0d"
+
