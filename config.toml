@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bucolic-gaufre-231ac2.netlify.app/'
 languageCode = 'en-us'
 title = 'tsonobe dev log'
 theme = "hyde"
